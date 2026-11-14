@@ -1,7 +1,7 @@
 # Sales Performance & Revenue Analysis
 ### B2B Sales Analytics | Microsoft Excel
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on analyzing B2B sales performance, tracking revenue generation and evaluating sales team productivity using Microsoft Excel.
 
@@ -9,7 +9,7 @@ The objective was to build a structured sales reporting system to monitor revenu
 
 The project uses simulated B2B sales data for practical Sales Operations and analytics experience.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Analyze overall sales and revenue performance.
 - Monitor monthly revenue trends.
@@ -19,7 +19,7 @@ The project uses simulated B2B sales data for practical Sales Operations and ana
 - Calculate important sales KPIs.
 - Develop a consolidated sales performance dashboard.
 
-## 📊 Project Performance Matrix
+## Project Performance Matrix
 
 | Key Performance Indicators | Analysis |
 |---|---|
@@ -31,7 +31,7 @@ The project uses simulated B2B sales data for practical Sales Operations and ana
 | Performance Tracking | Individual & Monthly |
 | Reporting | KPI Dashboard |
 
-## 📈 Sales Analysis Matrix
+## Sales Analysis Matrix
 
 | Analysis Area | Key Metrics | Business Purpose |
 |---|---|---|
@@ -42,7 +42,7 @@ The project uses simulated B2B sales data for practical Sales Operations and ana
 | Monthly Analysis | Monthly Revenue Trends | Identify revenue patterns |
 | KPI Dashboard | Consolidated Sales Metrics | Support performance monitoring |
 
-## 🔍 Project Methodology
+## Project Methodology
 
 **1. Sales Data Management**
 - Organized simulated B2B sales transaction records.
@@ -69,7 +69,7 @@ The project uses simulated B2B sales data for practical Sales Operations and ana
 - Presented revenue and deal performance metrics.
 - Created a centralized view for sales performance monitoring.
 
-## 📑 Excel Workbook Structure
+## Excel Workbook Structure
 
 | Worksheet | Description |
 |---|---|
